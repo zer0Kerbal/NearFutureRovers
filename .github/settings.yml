@@ -254,23 +254,23 @@ labels:
 
 # Milestones: define milestones for Issues and Pull Requests
 milestones:
-  - title: 1.0.0.0 for Kerbal Space Program 1.1
+  - title: 1.0.0.0
     description: progress toward Version 1.0.0 for Kerbal Space Program 1.1
     state: open
 
-  - title: 1.0.1.0 for Kerbal Space Program 1.1.1
+  - title: 1.0.1.0
     description: progress toward Version 1.0.1 for Kerbal Space Program 1.1.1
     state: open
 
-  - title: 1.0.2.0 for Kerbal Space Program 1.1.2
+  - title: 1.0.2.0
     description: progress toward Version 1.0.2 for Kerbal Space Program 1.1.2
     state: open
 
-  - title: 1.1.0.0 for Kerbal Space Program 1.2
+  - title: 1.1.0.0
     description: progress toward Version 1.1.0 for Kerbal Space Program 1.2
     state: open
 
-  - title: 2.0.0.0 for Kerbal Space Program 1.3.0
+  - title: 2.0.0.0
     description: progress toward Version 2.0.0 for Kerbal Space Program 1.3.0
     state: open
 
