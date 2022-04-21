@@ -17,7 +17,7 @@ repository:
   homepage: https://forum.kerbalspaceprogram.com/index.php?/topic/164115-*
 
   # A comma-separated list of topics to set on the repository
-  topics: near,future,rover,kerbal,kerbalspaceprogram,ksp,ksp-mods,ksp-parts,kerbal-space,kerbal-mods,zedk
+  topics: near,future,rover,kerbal,kerbalspaceprogram,ksp,ksp-mods,ksp-parts,kerbal-space,kerbal-mods
 
   # Either `true` to make the repository private, or `false` to make it public.
   private: false
