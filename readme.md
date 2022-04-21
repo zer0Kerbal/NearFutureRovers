@@ -4,7 +4,13 @@
 
 ### Near Future Rover Parts
 
-*adopted with specific permission*
+adopted with specific permission by @zer0Kerbal
+
+## THIS REPO IS NOT READY FOR Forks, pull requests, *et cetera*  
+
+### I will post in discussions when it is ready
+
+![HERO-02](https://github.com/zer0Kerbal/RoverPack/blob/master/img/HERO-01.jpg?raw=true)
 
 Originally by [MichaelV2.0](https://forum.kerbalspaceprogram.com/index.php?/profile/151168-*/)
 
