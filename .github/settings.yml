@@ -11,10 +11,10 @@ repository:
   name: RoverPack
 
   # A short description of the repository that will show up on GitHub
-  description: Rover parts seeking to fill a kerbal's need for thrill and adventure by way of exploration with little to no safety guidelines
+  description: "Rover parts seeking to fill a kerbal's need for thrill and adventure by way of exploration with little to no safety guidelines"
 
   # A URL with more information about the repository
-  homepage: https://forum.kerbalspaceprogram.com/index.php?/topic/164115-*/
+  homepage: "https://forum.kerbalspaceprogram.com/index.php?/topic/164115-*/"
 
   # A comma-separated list of topics to set on the repository
   topics: near,future,rover,kerbal,kerbalspaceprogram,ksp,ksp-parts,kerbal-space,kerbal-mods
@@ -254,23 +254,23 @@ labels:
 
 # Milestones: define milestones for Issues and Pull Requests
 milestones:
-  - title: 1.0.0.0
+  - title: "1.0.0.0"
     description: progress toward Version 1.0.0 for Kerbal Space Program 1.1
     state: open
 
-  - title: 1.0.1.0
+  - title: "1.0.1.0"
     description: progress toward Version 1.0.1 for Kerbal Space Program 1.1.1
     state: open
 
-  - title: 1.0.2.0
+  - title: "1.0.2.0"
     description: progress toward Version 1.0.2 for Kerbal Space Program 1.1.2
     state: open
 
-  - title: 1.1.0.0
+  - title: "1.1.0.0"
     description: progress toward Version 1.1.0 for Kerbal Space Program 1.2
     state: open
 
-  - title: 2.0.0.0
+  - title: "2.0.0.0"
     description: progress toward Version 2.0.0 for Kerbal Space Program 1.3.0
     state: open
 
