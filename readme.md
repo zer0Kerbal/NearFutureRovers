@@ -6,6 +6,10 @@
 
 adopted with specific permission by @zer0Kerbal
 
+This pack seeks to fill the kerbal's need for thrill and adventure in the way of exploration and little to no safety guidelines. The pack consists of a variety of rover parts to tackle the gap in planetary scientific exploration as well as cargo and passenger transportation. Leading the pack in these endeavors is the R32M Puma vehicle parts which give the perfect platform for light transport solutions and scientific exploration. accompanying the puma is its big brother the R32L honey badger parts which work fluently with the puma parts to help with heavier cargo transportation, mining and planetary exploration. for Kerbal Space Program.
+
+V2 Industries presents Near Future Rovers, which seeks to fill the kerbal's need for thrill and adventure in the way of exploration and little to no safety guidelines. The pack consists of a variety of rover parts to tackle the gap in planetary scientific exploration as well as cargo and passenger transportation for Kerbal Space Program.
+
 ## THIS REPO IS NOT READY FOR Forks, pull requests, *et cetera*  
 
 ### I will post in discussions when it is ready
