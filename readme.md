@@ -6,7 +6,7 @@
 
 *adopted with specific permission*
 
-Originally by MichaelV2.0
+Originally by [MichaelV2.0](https://forum.kerbalspaceprogram.com/index.php?/profile/151168-*/)
 
 ### Version_2.0 Industries Rover Pack
 
