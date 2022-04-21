@@ -274,22 +274,22 @@ milestones:
     description: progress toward Version 2.0.0 for Kerbal Space Program 1.3.0
     state: open
 
-  - title: 2.0.99.0-adoption
+  - title: "2.0.99.0-adoption"
     description: progress toward 2.0.99.0-adoption
     state: open
 
-  - title: Localization - English (United States) <en-us.cfg>
+  - title: "Localization - English (United States) <en-us.cfg>"
     description: progress toward English (United States) <en-us.cfg> localization
     state: open
 
-  - title: Localization - Master
+  - title: "Localization - Master"
     description: progress toward total localization
     state: open
 
-  - title: Localization - Parts
+  - title: "Localization - Parts"
     description: progress toward PARTS localization (only for parts, agencies - etc)
     state: open
 
-  - title: Previous Releases uploaded
+  - title: "Previous Releases uploaded"
     description: progress toward Previous Releases uploaded
     state: open
