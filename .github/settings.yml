@@ -11,10 +11,10 @@ repository:
   name: RoverPack
 
   # A short description of the repository that will show up on GitHub
-  description: "Rover parts seeking to fill a kerbal's need for thrill and adventure by way of exploration with little to no safety guidelines"
+  #description: "Rover parts seeking to fill a kerbal's need for thrill and adventure by way of exploration with little to no safety guidelines"
 
   # A URL with more information about the repository
-  homepage: "https://forum.kerbalspaceprogram.com/index.php?/topic/164115-*/"
+  #homepage: "https://forum.kerbalspaceprogram.com/index.php?/topic/164115-*/"
 
   # A comma-separated list of topics to set on the repository
   topics: near,future,rover,kerbal,kerbalspaceprogram,ksp,ksp-parts,kerbal-space,kerbal-mods
