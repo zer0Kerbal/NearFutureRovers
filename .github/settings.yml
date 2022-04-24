@@ -14,10 +14,10 @@ repository:
   #description: "Rover parts seeking to fill a kerbal's need for thrill and adventure by way of exploration with little to no safety guidelines"
 
   # A URL with more information about the repository
-  #homepage: "https://forum.kerbalspaceprogram.com/index.php?/topic/164115-*/"
+  homepage: "https://forum.kerbalspaceprogram.com/index.php?/topic/207911-*/"
 
   # A comma-separated list of topics to set on the repository
-  topics: near,future,rover,kerbal,kerbalspaceprogram,ksp,ksp-parts,kerbal-space,kerbal-mods
+  topics: puma,badger,rover,kerbal,kerbalspaceprogram,ksp,ksp-parts,kerbal-space,kerbal-mods
 
 # Labels: define labels for Issues and Pull Requests
 labels:
