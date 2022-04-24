@@ -4,7 +4,7 @@
 
 ### Near Future Rover Parts
 
-adopted with specific permission by @zer0Kerbal
+adopted with specific permission by @zer0Kerbal, Originally by [MichaelV2.0](https://forum.kerbalspaceprogram.com/index.php?/profile/151168-*/)
 
 This pack seeks to fill the kerbal's need for thrill and adventure in the way of exploration and little to no safety guidelines. The pack consists of a variety of rover parts to tackle the gap in planetary scientific exploration as well as cargo and passenger transportation. Leading the pack in these endeavors is the R32M Puma vehicle parts which give the perfect platform for light transport solutions and scientific exploration. accompanying the puma is its big brother the R32L honey badger parts which work fluently with the puma parts to help with heavier cargo transportation, mining and planetary exploration. for Kerbal Space Program.
 
@@ -24,3 +24,9 @@ Originally by [MichaelV2.0](https://forum.kerbalspaceprogram.com/index.php?/prof
 
 [![CC BY-ND-ND 4.0](https://img.shields.io/badge/License-CC%20BY--NC--ND%204.0-ef9421?style=style-for-the-badge&labelColor=black&logo=creativecommons&logoColor=ef9421)](https://creativecommons.org/licenses/by-nd-sa/4.0/)
 
+#### [MichaelV2.0 said:](https://forum.kerbalspaceprogram.com/index.php?/topic/164115-13-version_20-industries-rover-pack/&do=findComment&comment=4122205)
+> I have granted @zer0Kerbal permission to adopt Version 2.0 Industries Rover Pack mod with the understanding that he will keep the `Version 2.0 Industries` brand,  and proper attribution to the original author (myself). Any Significant changes to models and codes, along with new parts, textures, models, and functions are permitted as per agreement and approval at such time as changes maybe needed.
+>
+> The license is to be CC BY-ND 4.0.  Express revocable permission is granted to use the assets, code, copyrights, and trademarks.
+>
+> zer0Kerbal has been added to the SpaceDock listing as an author. @VITAS
