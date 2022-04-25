@@ -104,12 +104,10 @@ Either
 <a href = "https://forum.kerbalspaceprogram.com/index.php?/topic/83212-*">
   <p><img src = "https://i.postimg.cc/vHP6zmrw/image.png" alt="How to get support"></p></a>Be Kind: Lithobrake, not jakebrake! Keep your Module Manager up to date</div>
 
-
 ### Credits and Special Thanks
 
 * [`MichaelV2.0`][michaelv2.0] for creating this glorious parts addon!
 * see [Attribution.md][MOD:attr] for more comprehensive list
-
 
 ### Legal Mumbo Jumbo (License *provenance*)
 
