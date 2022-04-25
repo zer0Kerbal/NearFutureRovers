@@ -21,6 +21,12 @@
 * Battery and 1.25m adapter added
 * Fuel Switching on tanks to replace multiple different variants of the same tank (texture differences are still present)
 * Minor Texture Fixes
+  
+### Status
+
+* Issues
+  * closes #
+  * closes #2 - Previous Releases to Update
 
 [Download (3.20 MiB)](https://spacedock.info/mod/590/Version_2.0 Industries Rover Pack./download/2.0.0)
 
@@ -34,6 +40,12 @@
 * large resource containers for ore, Lf/O, Lf and mono propellant
 * side containers for ore, Lf/O, Lf and mono propellant
 * second crew cabin for easier use of new containers (addition not replacment)
+  
+### Status
+
+* Issues
+  * closes #7 - 2.0.0.0 for Kerbal Space Program 1.3.0
+  * updates #2 - Previous Releases to Update
 
 [Download (2.86 MiB)](https://spacedock.info/mod/590/Version_2.0 Industries Rover Pack./download/1.1.0)
 
@@ -45,6 +57,12 @@
 
 * Texture fixes on crew cabin and chassis
 * will work with 1.1.2
+  
+### Status
+
+* Issues
+  * closes #6 - 1.1.0.0 for Kerbal Space Program 1.2.0
+  * updates #2 - Previous Releases to Update
 
 [Download (413.56 KiB)](https://spacedock.info/mod/590/Version_2.0 Industries Rover Pack./download/1.0.2)
 
@@ -57,6 +75,12 @@
 * Texture fixes on cargo racks
 * Electric charge fix on the cockpit
 * Balancing fixes
+  
+### Status
+
+* Issues
+  * closes #5 - 1.0.2.0 for Kerbal Space Program 1.1.2
+  * updates #2 - Previous Releases to Update
 
 [Download (412.98 KiB)](https://spacedock.info/mod/590/Version_2.0 Industries Rover Pack./download/1.0.1)
 
@@ -67,5 +91,11 @@
   * for Kerbal Space Program 1.1.0
 
 * *No changelog provided*
+  
+### Status
+
+* Issues
+  * closes #4 - 1.0.1.0 for Kerbal Space Program 1.1.1
+  * updates #2 - Previous Releases to Update
 
 [Download (972.54 KiB)](https://spacedock.info/mod/590/Version_2.0 Industries Rover Pack./download/1.0.0)
