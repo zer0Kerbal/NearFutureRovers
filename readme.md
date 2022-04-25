@@ -226,7 +226,7 @@ Either
 [SW]: https://raw.githubusercontent.com/zer0Kerbal/zer0Kerbal/zed'K/Localization/img/Swedish-flag-sm.png "Svenska"
 [TW]: https://raw.githubusercontent.com/zer0Kerbal/zer0Kerbal/zed'K/Localization/img/Taiwanese-flag-sm.png "国语"
 
-[michaelv2.0]:  https://forum.kerbalspaceprogram.com/index.php?/profile/102159-*/ "MichaelV2.0"
+[michaelv2.0]:  https://forum.kerbalspaceprogram.com/index.php?/profile/151168-*/ "MichaelV2.0"
 [zer0Kerbal]: https://forum.kerbalspaceprogram.com/index.php?/profile/190933-*/ "zer0Kerbal"
 
 [IMG:flg:0]: https://raw.githubusercontent.com/zer0Kerbal/RoverPack/master/img/V2L-flag.png "Version 2.0 Industries Flag"
