@@ -25,7 +25,7 @@
 ### Status
 
 * Issues
-  * closes #7
+  * closes #7 - 2.0.0.0 for Kerbal Space Program 1.3.0
   * closes #2 - Previous Releases to Update
 
 [Download (3.20 MiB)](https://spacedock.info/mod/590/Version_2.0%20Industries%20Rover%20Pack./download/2.0.0)
@@ -44,7 +44,7 @@
 ### Status
 
 * Issues
-  * closes #7 - 2.0.0.0 for Kerbal Space Program 1.3.0
+  * closes #6 - 1.1.0.0 for Kerbal Space Program 1.2.0
   * updates #2 - Previous Releases to Update
 
 [Download (2.86 MiB)](https://spacedock.info/mod/590/Version_2.0%20Industries%20Rover%20Pack./download/1.1.0)
@@ -61,7 +61,7 @@
 ### Status
 
 * Issues
-  * closes #6 - 1.1.0.0 for Kerbal Space Program 1.2.0
+  * closes #5 - 1.0.2.0 for Kerbal Space Program 1.1.2
   * updates #2 - Previous Releases to Update
 
 [Download (413.56 KiB)](https://spacedock.info/mod/590/Version_2.0%20Industries%20Rover%20Pack./download/1.0.2)
@@ -79,7 +79,7 @@
 ### Status
 
 * Issues
-  * closes #5 - 1.0.2.0 for Kerbal Space Program 1.1.2
+  * closes #4 - 1.0.1.0 for Kerbal Space Program 1.1.1
   * updates #2 - Previous Releases to Update
 
 [Download (412.98 KiB)](https://spacedock.info/mod/590/Version_2.0%20Industries%20Rover%20Pack./download/1.0.1)
@@ -95,7 +95,7 @@
 ### Status
 
 * Issues
-  * closes #4 - 1.0.1.0 for Kerbal Space Program 1.1.1
+  * closes #3 - 1.0.0.0 for Kerbal Space Program 1.1.0
   * updates #2 - Previous Releases to Update
 
 [Download (972.54 KiB)](https://spacedock.info/mod/590/Version_2.0%20Industries%20Rover%20Pack./download/1.0.0)
