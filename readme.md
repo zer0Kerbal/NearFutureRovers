@@ -83,18 +83,17 @@ or [![CKAN][CKAN:img]][CKAN:url] [^1]
 ### Dependencies
 
 * [Kerbal Space Program][KSP:url] [![Kerbal Space Program][KSP:shd]][KSP:url] [^2]
+* Either
+  * [Firespitter][fs]
+  * [Firespitter Core][fsc]
 
 ### Supports
 
-Either
+* Either
+  * [Module Manager][mm] [^3]
+  * [Module Manager /L][mm]l [^3]
 
-* [Module Manager][mm] [^3]
-* [Module Manager /L][mm]l [^3]
-
-* [On Demand Fuel Cells (ODFC)][ODFC] [^3]  
-* [Firespitter][fs] for fully functioning wheels. may invoke bouts of dizziness.
-* [NEAR-FAR][far]
-* [Restock][restock]
+* [On Demand Fuel Cells (ODFC)][ODFC] [^3]
 * [GPO (Goo Pumps & Oils') Speed Pump (GPO)][GPO]
 
 ---
@@ -189,6 +188,7 @@ Either
 <!-- links to add-ons/mods -->  
 [ODFC]: https://forum.kerbalspaceprogram.com/index.php?/topic/187625-*/ "On Demand Fuel Cells"
 [fs]: https://github.com/snjo/Firespitter "Firespitter"
+[fsc]: http://snjo.github.io/ "FireSpitter Core"
 [mm]: https://forum.kerbalspaceprogram.com/index.php?/topic/50533-*/ "Module Manager"
 [mml]: https://github.com/net-lisias-ksp/ModuleManager "Module Manager /L"
 [twk]: https://forum.kerbalspaceprogram.com/index.php?/topic/179030-*/ "TweakScale"
