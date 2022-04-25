@@ -18,6 +18,11 @@
 
 ## Adoption
 
+## Graphics
+
+* Update
+  * .mbm --> .png (from 97.7mb to 1.43mb)
+
 ## License
 
 * Updated to CC BY-ND 4.0
