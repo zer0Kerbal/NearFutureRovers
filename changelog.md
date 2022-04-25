@@ -2,15 +2,15 @@
   
 | modName    | RoverPack (V2IR)                                                  |
 | ---------- | ----------------------------------------------------------------- |
-| license    | CC-BY-NC-ND-4.0                                                      |
+| license    | CC-BY-NC-ND-4.0                                                   |
 | author     | MichaelV2.0 and zer0Kerbal                                        |
 | forum      | (https://forum.kerbalspaceprogram.com/index.php?/topic/207911-*/) |
 | github     | (https://github.com/zer0Kerbal/zer0Kerbal/RoverPack)              |
 | curseforge | (https://www.curseforge.com/kerbal/ksp-mods/RoverPack)            |
 | spacedock  | (https://spacedock.info/mod/590)                                  |
-| ckan       | RoverPack  
+| ckan       | RoverPack                                                         |
 
-## Version 2.0.0 for Kerbal Space Program 1.3.0
+## Version 2.0.0.0 for Kerbal Space Program 1.3.0
 
 * Released
   * 2017-08-04
@@ -30,7 +30,7 @@
 
 [Download (3.20 MiB)](https://spacedock.info/mod/590/Version_2.0%20Industries%20Rover%20Pack./download/2.0.0)
 
-## Version 1.1.0 for Kerbal Space Program 1.2
+## Version 1.1.0.0 for Kerbal Space Program 1.2
 
 * Released
   * 2016-05-06
@@ -49,7 +49,7 @@
 
 [Download (2.86 MiB)](https://spacedock.info/mod/590/Version_2.0%20Industries%20Rover%20Pack./download/1.1.0)
 
-## Version 1.0.2 for Kerbal Space Program 1.1.2
+## Version 1.0.2.0 for Kerbal Space Program 1.1.2
 
 * Released
   * 2016-04-30
@@ -66,7 +66,7 @@
 
 [Download (413.56 KiB)](https://spacedock.info/mod/590/Version_2.0%20Industries%20Rover%20Pack./download/1.0.2)
 
-## Version 1.0.1 for Kerbal Space Program 1.1.1
+## Version 1.0.1.0 for Kerbal Space Program 1.1.1
 
 * Released
   * 2016-04-30
