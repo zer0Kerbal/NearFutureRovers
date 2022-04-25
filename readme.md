@@ -4,9 +4,9 @@ created: 17 Jul 2017
 updated: 15 Apr 2022 -->
 
 <!--this file: CC BY-ND 4.0 unported by zer0Kerbal-->
-# RoverPack (V2LR)
+# Rover Pack (V2LR)
 
-[![RoverPack][MOD:shd:latest]][MOD:forum] [![KSP version][KSP:shd]][KSP:url]  [![License][LIC:shd]][LIC:url]  
+[![Rover Pack][MOD:shd:latest]][MOD:forum] [![KSP version][KSP:shd]][KSP:url]  [![License][LIC:shd]][LIC:url]  
 [![Curseforge][CURSFG:shd]][CURSFG:url] [![GitHub][GITHUB:shd]][GITHUB:url] [![SpaceDock][SPCDCK:shd]][SPCDCK:url] [![CKAN][CKAN:shd]][CKAN:url]  
 [![Pages][MOD:pages:shd]][MOD:pages]
 
@@ -21,7 +21,7 @@ adopted with *express* permission and brought to you by Version 2.0 Industries (
 
 
 
-<img src="https://raw.githubusercontent.com/zer0Kerbal/RoverPack/master/img/HERO-01.png" alt="Rover Pack" width="75%" height="75%">
+<img src="https://raw.githubusercontent.com/zer0Kerbal/RoverPack/master/img/HeroLogo_1920x1920.png" alt="Rover Pack" width="50%" height="50%">
 
 
 ### Preamble by [`MichaelV2.0`][michaelv2.0]
