@@ -4,9 +4,9 @@ created: 17 Jul 2017
 updated: 15 Apr 2022 -->
 
 <!--this file: CC BY-ND 4.0 unported by zer0Kerbal-->
-# RoverPack (V2LR)
+# Rover Pack (V2LR)
 
-[![RoverPack][MOD:shd:latest]][MOD:forum] [![KSP version][KSP:shd]][KSP:url]  [![License][LIC:shd]][LIC:url]  
+[![Rover Pack][MOD:shd:latest]][MOD:forum] [![KSP version][KSP:shd]][KSP:url]  [![License][LIC:shd]][LIC:url]  
 [![Curseforge][CURSFG:shd]][CURSFG:url] [![GitHub][GITHUB:shd]][GITHUB:url] [![SpaceDock][SPCDCK:shd]][SPCDCK:url] [![CKAN][CKAN:shd]][CKAN:url]  
 [![Pages][MOD:pages:shd]][MOD:pages]
 
