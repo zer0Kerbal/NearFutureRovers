@@ -21,7 +21,7 @@ adopted with *express* permission and brought to you by Version 2.0 Industries (
 
 
 
-<img src="https://raw.githubusercontent.com/zer0Kerbal/RoverPack/master/img/HERO-01.png" alt="Rover Pack" width="75%" height="75%">
+<img src="https://raw.githubusercontent.com/zer0Kerbal/RoverPack/master/img/HeroLogo_1920x1920.png" alt="Rover Pack" width="50%" height="50%">
 
 
 ### Preamble by [`MichaelV2.0`][michaelv2.0]
