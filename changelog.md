@@ -25,7 +25,7 @@
 ### Status
 
 * Issues
-  * closes #
+  * closes #7
   * closes #2 - Previous Releases to Update
 
 [Download (3.20 MiB)](https://spacedock.info/mod/590/Version_2.0%20Industries%20Rover%20Pack./download/2.0.0)
