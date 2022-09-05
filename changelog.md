@@ -1,11 +1,6 @@
 # Changelog  
-<<<<<<< Updated upstream
 
 | modName    | RoverPack (V2IR)                                                  |
-=======
-  
-| modName    | Rover Pack (V2IR)                                                 |
->>>>>>> Stashed changes
 | ---------- | ----------------------------------------------------------------- |
 | license    | CC-BY-ND-4.0                                                      |
 | author     | MichaelV2.0 and zer0Kerbal                                        |
@@ -15,7 +10,6 @@
 | spacedock  | (https://spacedock.info/mod/590)                                  |
 | ckan       | RoverPack                                                         |
 
-<<<<<<< Updated upstream
 ## Version 2.0.99.0-adoption `<EDITION>`
 
 * Released
@@ -51,9 +45,6 @@
 ---
 
 ## Version 2.0.0.0 for Kerbal Space Program 1.3.0
-=======
-## Version 2.0.0.0-release `<Archival>` edition
->>>>>>> Stashed changes
 
 * Released
   * 2017-08-04
@@ -64,13 +55,8 @@
 * Battery and 1.25m adapter added
 * Fuel Switching on tanks to replace multiple different variants of the same tank (texture differences are still present)
 * Minor Texture Fixes
-<<<<<<< Updated upstream
 
-### Status
-=======
-  
 ### Status 2.0.0.0
->>>>>>> Stashed changes
 
 * Issues
   * closes #7
@@ -81,13 +67,7 @@
 
 ---
 
-<<<<<<< Updated upstream
----
-
-## Version 1.1.0.0 for Kerbal Space Program 1.2
-=======
 ## Version 1.1.0.0-release `<Archival>` edition
->>>>>>> Stashed changes
 
 * Released
   * 2016-05-06
@@ -97,13 +77,8 @@
 * large resource containers for ore, Lf/O, Lf and mono propellant
 * side containers for ore, Lf/O, Lf and mono propellant
 * second crew cabin for easier use of new containers (addition not replacment)
-<<<<<<< Updated upstream
-
-### Status
-=======
   
 ### Status 1.1.0.0
->>>>>>> Stashed changes
 
 * Issues
   * closes #6 - 2.0.0.0 for Kerbal Space Program 1.3.0
@@ -113,13 +88,7 @@
 
 ---
 
-<<<<<<< Updated upstream
----
-
-## Version 1.0.2.0 for Kerbal Space Program 1.1.2
-=======
 ## Version 1.0.2.0-release `<Archival>` edition
->>>>>>> Stashed changes
 
 * Released
   * 2016-04-30
@@ -127,13 +96,8 @@
 
 * Texture fixes on crew cabin and chassis
 * will work with 1.1.2
-<<<<<<< Updated upstream
-
-### Status
-=======
   
 ### Status 1.0.2.0
->>>>>>> Stashed changes
 
 * Issues
   * closes #5 - 1.1.0.0 for Kerbal Space Program 1.2.0
@@ -143,13 +107,7 @@
 
 ---
 
-<<<<<<< Updated upstream
----
-
-## Version 1.0.1.0 for Kerbal Space Program 1.1.1
-=======
 ## Version 1.0.1.0-release `<Archival>` edition
->>>>>>> Stashed changes
 
 * Released
   * 2016-04-30
@@ -158,13 +116,8 @@
 * Texture fixes on cargo racks
 * Electric charge fix on the cockpit
 * Balancing fixes
-<<<<<<< Updated upstream
-
-### Status
-=======
   
 ### Status 1.0.1.0
->>>>>>> Stashed changes
 
 * Issues
   * closes #4 - 1.0.2.0 for Kerbal Space Program 1.1.2
@@ -174,26 +127,15 @@
 
 ---
 
-<<<<<<< Updated upstream
----
-
-## Version 1.0.0.0 - for KSP 1.1.0
-=======
 ## Version 1.0.0.0-release `<Archival>` edition
->>>>>>> Stashed changes
 
 * Released
   * 2016-04-25
   * for Kerbal Space Program 1.1.0
 
 * *No changelog provided*
-<<<<<<< Updated upstream
-
-### Status
-=======
   
 ### Status 1.0.0.0
->>>>>>> Stashed changes
 
 * Issues
   * closes #3 - 1.0.1.0 for Kerbal Space Program 1.1.1
@@ -201,9 +143,4 @@
   * #31 - Version 1.0.0.0 - for KSP 1.1.0 [24-Apr-2022] - contributed by zer0Kerbal
   * #3 - 1.0.0.0 for Kerbal Space Program 1.1
 
-<<<<<<< Updated upstream
-[Download (972.54 KiB)](https://spacedock.info/mod/590/Version_2.0%20Industries%20Rover%20Pack./download/1.0.0)
-
-=======
->>>>>>> Stashed changes
 ---
