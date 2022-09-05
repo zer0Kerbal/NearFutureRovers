@@ -1,6 +1,6 @@
 # Changelog  
 
-| modName    | RoverPack (V2IR)                                                  |
+| modName    | Rover Pack (V2IR)                                                 |
 | ---------- | ----------------------------------------------------------------- |
 | license    | CC-BY-ND-4.0                                                      |
 | author     | MichaelV2.0 and zer0Kerbal                                        |
