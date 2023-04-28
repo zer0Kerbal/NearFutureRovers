@@ -1,22 +1,21 @@
 ---
 permalink: /License.html
-title: License: CC BY-ND 4.0
+title: CC BY-ND 4.0
 ---
-
-<!--
-CC-BY-ND-4.0.md v1.0.0.0
-Rover Pack (V2IR)
+<!-- CC-BY-ND-4.0.md v1.0.1.0
+Kerbal Hack Ltd (KHL)
 created: 01 Feb 2022
-updated: 07 Mar 2022
--->
+updated: 07 Mar 2022 -->
 
-# CC BY-ND 4.0
+# [CC BY-ND 4.0+ARR](https://creativecommons.org/licenses/by-nd/4.0/legalcode.txt)
 
-## Creative Commons
+![CC](https://creativecommons.org/images/deed/svg/cc_blue.svg) ![Attribution](https://creativecommons.org/images/deed/svg/attribution_icon_blue.svg) ![NoDerivatives](https://creativecommons.org/images/deed/svg/nd_blue.svg)
 
-# Attribution-NoDerivatives 4.0 International Public License
+# [Creative Commons Attribution-NoDerivatives 4.0 International Public License](https://creativecommons.org/licenses/by-nd/4.0/legalcode.txt)
 
-![img](https://creativecommons.org/images/international/unported.png)
+<img src="https://creativecommons.org/images/international/unported.png" alt="img" style="zoom:100%;" />
+
+Official translations of this license are available [in other languages](https://creativecommons.org/licenses/by-nd/4.0/legalcode#languages).
 
 By exercising the Licensed Rights (defined below), You accept and agree to be bound by the terms and conditions of this Creative Commons Attribution-NoDerivatives 4.0 International Public License ("Public License"). To the extent this Public License may be interpreted as a contract, You are granted the Licensed Rights in consideration of Your acceptance of these terms and conditions, and the Licensor grants You such rights in consideration of benefits the Licensor receives from making the Licensed Material available under these terms and conditions.
 
@@ -144,7 +143,8 @@ Creative Commons is not a party to its public licenses. Notwithstanding, Creativ
 
 Creative Commons may be contacted at [creativecommons.org](https://creativecommons.org/).
 
+---
+
 Additional languages available: [العربية](https://creativecommons.org/licenses/by-nd/4.0/legalcode.ar), [čeština](https://creativecommons.org/licenses/by-nd/4.0/legalcode.cs), [Deutsch](https://creativecommons.org/licenses/by-nd/4.0/legalcode.de), [Ελληνικά](https://creativecommons.org/licenses/by-nd/4.0/legalcode.el), [Español](https://creativecommons.org/licenses/by-nd/4.0/legalcode.es), [euskara](https://creativecommons.org/licenses/by-nd/4.0/legalcode.eu), [suomeksi](https://creativecommons.org/licenses/by-nd/4.0/legalcode.fi), [français](https://creativecommons.org/licenses/by-nd/4.0/legalcode.fr), [hrvatski](https://creativecommons.org/licenses/by-nd/4.0/legalcode.hr), [Bahasa Indonesia](https://creativecommons.org/licenses/by-nd/4.0/legalcode.id), [italiano](https://creativecommons.org/licenses/by-nd/4.0/legalcode.it), [日本語](https://creativecommons.org/licenses/by-nd/4.0/legalcode.ja), [한국어](https://creativecommons.org/licenses/by-nd/4.0/legalcode.ko), [Lietuvių](https://creativecommons.org/licenses/by-nd/4.0/legalcode.lt), [latviski](https://creativecommons.org/licenses/by-nd/4.0/legalcode.lv), [te reo Māori](https://creativecommons.org/licenses/by-nd/4.0/legalcode.mi), [Nederlands](https://creativecommons.org/licenses/by-nd/4.0/legalcode.nl), [norsk](https://creativecommons.org/licenses/by-nd/4.0/legalcode.no), [polski](https://creativecommons.org/licenses/by-nd/4.0/legalcode.pl), [português](https://creativecommons.org/licenses/by-nd/4.0/legalcode.pt), [română](https://creativecommons.org/licenses/by-nd/4.0/legalcode.ro), [русский](https://creativecommons.org/licenses/by-nd/4.0/legalcode.ru), [Slovenščina](https://creativecommons.org/licenses/by-nd/4.0/legalcode.sl), [svenska](https://creativecommons.org/licenses/by-nd/4.0/legalcode.sv), [Türkçe](https://creativecommons.org/licenses/by-nd/4.0/legalcode.tr), [українська](https://creativecommons.org/licenses/by-nd/4.0/legalcode.uk), [中文](https://creativecommons.org/licenses/by-nd/4.0/legalcode.zh-Hans), [華語](https://creativecommons.org/licenses/by-nd/4.0/legalcode.zh-Hant). Please read the [FAQ](https://creativecommons.org/faq/#officialtranslations) for more information about official translations.
 
-
-<!-- CC BY-NC-ND 3.0 Unported by zer0Kerbal -->
+<!-- CC BY-ND 4.0 by zer0Kerbal -->
