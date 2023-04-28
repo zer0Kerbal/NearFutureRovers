@@ -20,15 +20,16 @@ updated: 17 Feb 2023 -->
 
 [Home](./index.md)
 
+V2 Industries presents a parts pack consists of a variety of rover parts that seeks to fill a kerbal's need for thrill and adventure in the way of exploration with little to no safety guidelines. Included are both the HoneyBadger and Puma platforms.
+
 ## Parts Catalog
 
-This add-on adds nine (9) resource parts
+This add-on adds xxx (XXX) thrill seeking rover parts
 
 ---
 <!-- no toc -->
 * [HoneyBadger](#honeybadger)
 * [Puma](#puma)
-
 
 ### HoneyBadger
 
