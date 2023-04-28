@@ -33,15 +33,53 @@ This add-on adds xxx (XXX) thrill seeking rover parts
 
 ### HoneyBadger
 
+* cockpit
 
-  <img src="https://raw.githubusercontent.com/zer0Kerbal/NearFutureRovers/master/docs/thumbs/ElMallet_icon.png" alt="" width="25%" height="25%" />
-  
+ <img src="https://raw.githubusercontent.com/zer0Kerbal/NearFutureRovers/master/docs/thumbs/nfr-honeybadger-cockpit_icon.png" alt="cockpit" width="25%" height="25%" />
+
+[top](#parts-catalog)
+
+* tank
+
+ <img src="https://raw.githubusercontent.com/zer0Kerbal/NearFutureRovers/master/docs/thumbs/nfr-honeybadger-tank_icon.png" alt="tank" width="25%" height="25%" />
+
+[top](#parts-catalog)
+ 
 ### Puma
 
-* MicroPad
-* OrbitalDock
+adapter-1.25
+battery
+cargo-n1
+cargo-n2
+cargo-r2
+chassis-025
+chassis-100
+chassis-200
+cockpit
+crew
+crew-enc
+ladder
+side-fuel
+side-mono
+side-ore
+tank
 
-  <img src="https://raw.githubusercontent.com/zer0Kerbal/NearFutureRovers/master/docs/thumbs/ELSurveyStake_icon.png" alt="" width="25%" height="25%" />
+ <img src="https://raw.githubusercontent.com/zer0Kerbal/NearFutureRovers/master/docs/thumbs/nfr-puma-adapter-1.25_icon.png" alt="adapter-1.25" width="25%" height="25%" />
+ <img src="https://raw.githubusercontent.com/zer0Kerbal/NearFutureRovers/master/docs/thumbs/nfr-puma-battery_icon.png" alt="battery" width="25%" height="25%" />
+ <img src="https://raw.githubusercontent.com/zer0Kerbal/NearFutureRovers/master/docs/thumbs/nfr-puma-cargo-n1_icon.png" alt="cargo-n1" width="25%" height="25%" />
+ <img src="https://raw.githubusercontent.com/zer0Kerbal/NearFutureRovers/master/docs/thumbs/nfr-puma-cargo-n2_icon.png" alt="cargo-n2" width="25%" height="25%" />
+ <img src="https://raw.githubusercontent.com/zer0Kerbal/NearFutureRovers/master/docs/thumbs/nfr-puma-cargo-r2_icon.png" alt="cargo-r2" width="25%" height="25%" />
+ <img src="https://raw.githubusercontent.com/zer0Kerbal/NearFutureRovers/master/docs/thumbs/nfr-puma-chassis-025_icon.png" alt="chassis-025" width="25%" height="25%" />
+ <img src="https://raw.githubusercontent.com/zer0Kerbal/NearFutureRovers/master/docs/thumbs/nfr-puma-chassis-100_icon.png" alt="chassis-100" width="25%" height="25%" />
+ <img src="https://raw.githubusercontent.com/zer0Kerbal/NearFutureRovers/master/docs/thumbs/nfr-puma-chassis-200_icon.png" alt="chassis-200" width="25%" height="25%" />
+ <img src="https://raw.githubusercontent.com/zer0Kerbal/NearFutureRovers/master/docs/thumbs/nfr-puma-cockpit_icon.png" alt="cockpit" width="25%" height="25%" />
+ <img src="https://raw.githubusercontent.com/zer0Kerbal/NearFutureRovers/master/docs/thumbs/nfr-puma-crew_icon.png" alt="crew" width="25%" height="25%" />
+ <img src="https://raw.githubusercontent.com/zer0Kerbal/NearFutureRovers/master/docs/thumbs/nfr-puma-crew-enc_icon.png" alt="crew-enc" width="25%" height="25%" />
+ <img src="https://raw.githubusercontent.com/zer0Kerbal/NearFutureRovers/master/docs/thumbs/nfr-puma-ladder_icon.png" alt="ladder" width="25%" height="25%" />
+ <img src="https://raw.githubusercontent.com/zer0Kerbal/NearFutureRovers/master/docs/thumbs/nfr-puma-side-fuel_icon.png" alt="side-fuel" width="25%" height="25%" />
+ <img src="https://raw.githubusercontent.com/zer0Kerbal/NearFutureRovers/master/docs/thumbs/nfr-puma-side-mono_icon.png" alt="side-mono" width="25%" height="25%" />
+ <img src="https://raw.githubusercontent.com/zer0Kerbal/NearFutureRovers/master/docs/thumbs/nfr-puma-side-ore_icon.png" alt="side-ore" width="25%" height="25%" />
+ <img src="https://raw.githubusercontent.com/zer0Kerbal/NearFutureRovers/master/docs/thumbs/nfr-puma-tank_icon.png" alt="tank" width="25%" height="25%" />
 
 
 ---
