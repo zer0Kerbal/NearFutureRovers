@@ -2,22 +2,24 @@
 permalink: /ManualInstallation.html
 title: Manual Installation
 description: the flat-pack Kiea instructions, written in Kerbalese, unusally present
-# layout: bare
 tags: installation,directions,page,kerbal,ksp,zer0Kerbal,zedK
 ---
+<!-- ManualInstallation.md v1.0.0.0
+Near Future Rovers (NFR)
+created: 26 Apr 2023
+updated:
 
-<!-- ManualInstallation.md v1.1.7.0
-Rover Pack (V2LR)
-created: 01 Oct 2019
-updated: 18 Apr 2022 -->
+TEMPLATE: ManualInstallation.md v1.1.9.1
+created: 01 Feb 2022
+updated: 26 Apr 2023
 
-<!-- based upon work by Lisias -->
+based upon work by Lisias -->
 
-# Rover Pack (V2LR)
+# [Near Future Rovers (NFR)][mod]
 
 [Home](./index.md)
 
-Rover parts seeking to fill a kerbal's need for thrill and adventure by way of exploration with little to no safety guidelines
+V2 Industries presents a parts pack consists of a variety of rover parts that seeks to fill a kerbal's need for thrill and adventure in the way of exploration and little to no safety guidelines. Included are both the HoneyBadger and Puma platforms for Kerbal Space Program.
 
 ## Installation Instructions
 
@@ -27,25 +29,25 @@ You should be all good! (check for latest version on CurseForge)
 
 ### If Downloaded from CurseForge/OverWolf manual download
 
-To install, place the V2Industries/RoverPack folder inside your Kerbal Space Program's GameData folder:
+To install, place the `V2Industries` folder inside your Kerbal Space Program's GameData folder:
 
-* **REMOVE ANY OLD VERSIONS OF THE PRODUCT BEFORE INSTALLING**, including any other fork:
-  * Delete `<KSP_ROOT>/GameData/V2Industries/RoverPack`
-* Extract the package's `V2Industries` folder into your KSP's GameData folder as follows:
-  * `<PACKAGE>/V2Industries` --> `<KSP_ROOT>/GameData/V2Industries`
+* **REMOVE ANY OLD VERSIONS OF THE PRODUCT BEFORE INSTALLING**
+  * Delete `<KSP_ROOT>/GameData/V2Industries/NearFutureRovers`
+* Extract the package's `V2Industries/` folder into your KSP's GameData folder as follows:
+  * `<PACKAGE>/V2Industries` --> `<KSP_ROOT>/GameData`
     * Overwrite any preexisting folder/file(s).
-  * you should end up with `<KSP_ROOT>/GameData/V2Industries/RoverPack`
+  * you should end up with `<KSP_ROOT>/GameData/V2Industries/NearFutureRovers`
 
 ### If Downloaded from SpaceDock / GitHub / other
 
-To install, place the GameData folder inside your Kerbal Space Program folder:
+To install, place the `GameData` folder inside your Kerbal Space Program folder:
 
-* **REMOVE ANY OLD VERSIONS OF THE PRODUCT BEFORE INSTALLING**, including any other fork:
-  * Delete `<KSP_ROOT>/GameData/V2Industries/RoverPack`
+* **REMOVE ANY OLD VERSIONS OF THE PRODUCT BEFORE INSTALLING**
+  * Delete `<KSP_ROOT>/GameData/V2Industries/NearFutureRovers`
 * Extract the package's `GameData` folder into your KSP's root folder as follows:
   * `<PACKAGE>/GameData` --> `<KSP_ROOT>`
     * Overwrite any preexisting file.
-  * you should end up with `<KSP_ROOT>/GameData/V2Industries/RoverPack`
+  * you should end up with `<KSP_ROOT>/GameData/V2Industries/NearFutureRovers`
 
 ## The following file layout must be present after installation
 
@@ -53,35 +55,40 @@ To install, place the GameData folder inside your Kerbal Space Program folder:
 <KSP_ROOT>
   + [GameData]
     + [V2Industries]
-      + [RoverPack]
+      + [NearFutureRovers]
         + [Agencies]
+          ...
+        + [Assets]
           ...
         + [Compatibility]
           ...
-        + [Flags]
+        + [Config]
           ...
-        + [Localization]
-          ...
-        + [Parts]
-          ...
-        * #.#.#.#.htm
-        * changelog.md
-        * CC-BY-ND-4.0.txt
-        * readme.htm
-        * RoverPack.version
+      + [Flags]
+        ...
+      + [Localization]
+        ...
+      + [Parts]
+        ...
+      * #.#.#.#.htm
+      * Attributions.htm
+      * ManualInstallation.htm
+      * changelog.md
+      * License.txt
+      * readme.htm
+      * NearFutureRovers.version
+      ...
     ...
-    * [Module Manager][mm] or [Module Manager /L][mml]
+    * ModuleManager.ConfigCache
   * KSP.log
   ...
 ```
 
 ### Dependencies
 
-* [SimpleConstruction! (SCON!)][SCON]
-* *either*
-  * [Module Manager][mm]
-  * [Module Manager /L][mml]
+* none
 
-[V2LR]: https://forum.kerbalspaceprogram.com/index.php?/topic/207911-*/ "Forum Thread"
-[mm]: https://forum.kerbalspaceprogram.com/index.php?/topic/50533-*/ "Module Manager"
-[mml]: https://github.com/net-lisias-ksp/ModuleManager "Module Manager /L"
+THIS FILE: CC BY-ND 4.0 by [zer0Kerbal](https://github.com/zer0Kerbal)
+  used with express permission from zer0Kerbal
+
+[mod]: https://www.curseforge.com/kerbal/ksp-mods/NearFutureRovers "Near Future Rovers (NFR)"
