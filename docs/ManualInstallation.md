@@ -19,7 +19,7 @@ based upon work by Lisias -->
 
 [Home](./index.md)
 
-V2 Industries presents a parts pack consists of a variety of rover parts that seeks to fill a kerbal's need for thrill and adventure in the way of exploration and little to no safety guidelines. Included are both the HoneyBadger and Puma platforms for Kerbal Space Program.
+V2 Industries presents a parts pack consists of a variety of rover parts that seeks to fill a kerbal's need for thrill and adventure in the way of exploration with little to no safety guidelines. Included are both the HoneyBadger and Puma platforms for Kerbal Space Program.
 
 ## Installation Instructions
 
