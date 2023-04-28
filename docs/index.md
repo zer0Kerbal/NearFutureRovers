@@ -11,4 +11,5 @@
 - [ManualInstallation](ManualInstallation.md)
 - [Notices](Notices.md)
 - [PartInvoice](PartInvoice.md)
+- [Why](Why.md)
 - [changelog](changelog.md)
