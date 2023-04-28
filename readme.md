@@ -15,7 +15,7 @@ THIS FILE: CC BY-ND 4.0 by zer0Kerbal -->
 
 # [Near Future Rovers (NFR)][CURSFG:url] by Version 2.0 Industries
 
-V2 Industries presents a parts pack consists of a variety of rover parts that seeks to fill a kerbal's need for thrill and adventure in the way of exploration and little to no safety guidelines. Included are both the HoneyBadger and Puma platforms.
+V2 Industries presents a parts pack consists of a variety of rover parts that seeks to fill a kerbal's need for thrill and adventure in the way of exploration with little to no safety guidelines. Included are both the HoneyBadger and Puma platforms.
 
 ## By [`zer0Kerbal`][zer0Kerbal], inspired by [`MichaelV2.0`][auth-link]
 
@@ -25,13 +25,13 @@ adopted with *express* permission and brought to you by *KerbSimpleCo*
 
 ### Preamble by [`MichaelV2.0`][auth-link]
 
-> This pack seeks to fill the kerbal's need for thrill and adventure in the way of exploration and little to no safety guidelines. The pack consists of a variety of rover parts to tackle the gap in planetary scientific exploration as well as cargo and passenger transportation.
+> This pack seeks to fill the kerbal's need for thrill and adventure in the way of exploration with little to no safety guidelines. The pack consists of a variety of rover parts to tackle the gap in planetary scientific exploration as well as cargo and passenger transportation.
 >
 > Leading the pack in these endeavors is the `R32M Puma` vehicle parts which give the perfect platform for light transport solutions and scientific exploration.
 >
 > Accompanying the `Puma` is it's big brother the `R32L Honey Badger` parts which work fluently with the `Puma` parts to help with heavier cargo transportation, mining and planetary exploration. for Kerbal Space Program.
 >
-> V2 Industries (V2I) presents [Near Future Rovers (NFR)][NFR], which seeks to fill the kerbal's need for thrill and adventure in the way of exploration and little to no safety guidelines. The pack consists of a variety of rover parts to tackle the gap in planetary scientific exploration as well as cargo and passenger transportation for Kerbal Space Program.
+> V2 Industries (V2I) presents [Near Future Rovers (NFR)][NFR], which seeks to fill the kerbal's need for thrill and adventure in the way of exploration with little to no safety guidelines. The pack consists of a variety of rover parts to tackle the gap in planetary scientific exploration as well as cargo and passenger transportation for Kerbal Space Program.
 
 ### See more
 
