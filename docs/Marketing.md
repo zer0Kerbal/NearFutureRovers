@@ -29,55 +29,75 @@ this file:
 ## Marketing Slicks
 
 * Table of Contents
-  * [Family Photo](#family-photo)
-  * [Mining Ore](#mining-ore)
-  * [Refining Ore to Metal](#refining-ore-to-metal)
-  * [Printing Rocketparts from Metal](#printing-rocketparts-from-metal)
-  * [Building Rockets](#building-rockets)
-  * [Finalize build](#finalize-build)
+  * [Hero 01](#hero-01)
+  * [Hero 02](#hero-02)
+  * [Hero 03](#hero-03)
+  * [Hero 04](#hero-04)
+  * [Hero 05](#hero-05)
+  * [Hero 06](#hero-06)
+  * [Hero 07](#hero-07)
+  * [Hero 08](#hero-08)
+  * [Hero 09](#hero-09)
+  * [Hero 10](#hero-10)
 
-### Family Photo
+### Hero 01
 
-<img src="https://github.com/zer0Kerbal/FuelTanksPlus/blob/master/img/Hero-01.jpg?raw=true" alt="Fuel Tanks Plus" width="100%" height="100%">
+<img src="https://raw.githubusercontent.com/zer0Kerbal/NearFutureRovers/master/img/HERO-01.png" alt="Near Future Rovers" width="100%" height="100%">
 
-![Resource Flow Graph](https://i.postimg.cc/QNqdw7wp/Simple-Construction-resource-Flow.png)
 [top](#table-of-contents)
 
-### Mining Ore
+### Hero 02
 
-First mine the ore *(after you find it)*
+<img src="https://raw.githubusercontent.com/zer0Kerbal/NearFutureRovers/master/img/HERO-02.png" alt="Near Future Rovers" width="100%" height="100%">
 
-![Mining Ore][IMG:hero:2a]
 [top](#table-of-contents)
 
-### Refining Ore to Metal
+### Hero 03
 
-Then refine the ore into metal
+<img src="https://raw.githubusercontent.com/zer0Kerbal/NearFutureRovers/master/img/HERO-03.png" alt="Near Future Rovers" width="100%" height="100%">
 
-![Refining Ore to Metal][IMG:hero:2b]
 [top](#table-of-contents)
 
-### Printing Rocketparts from Metal
+### Hero 04
 
-Then using the MPL Science lab, print Rocket Parts
+<img src="https://raw.githubusercontent.com/zer0Kerbal/NearFutureRovers/master/img/HERO-04.png" alt="Near Future Rovers" width="100%" height="100%">
 
-![Printing Rocketparts from Metal][IMG:hero:2c]
 [top](#table-of-contents)
 
-### Building Rockets
+### Hero 05
 
-Then using a command pod and a docking port, build a new vessel or subassembly or even just a part
+<img src="https://raw.githubusercontent.com/zer0Kerbal/NearFutureRovers/master/img/HERO-05png" alt="Near Future Rovers" width="100%" height="100%">
 
-![Building Rockets][IMG:hero:2d]
 [top](#table-of-contents)
 
-### Finalize build
+### Hero 06
 
-Finalize your build and load up the resources, and
+<img src="https://raw.githubusercontent.com/zer0Kerbal/NearFutureRovers/master/img/HERO-06.png" alt="Near Future Rovers" width="100%" height="100%">
 
-*PROFIT!*
+[top](#table-of-contents)
 
-![Finalize build!][IMG:hero:2e]
+### Hero 07
+
+<img src="https://raw.githubusercontent.com/zer0Kerbal/NearFutureRovers/master/img/HERO-07.png" alt="Near Future Rovers" width="100%" height="100%">
+
+[top](#table-of-contents)
+
+### Hero 08
+
+<img src="https://raw.githubusercontent.com/zer0Kerbal/NearFutureRovers/master/img/HERO-08.png" alt="Near Future Rovers" width="100%" height="100%">
+
+[top](#table-of-contents)
+
+### Hero 09
+
+<img src="https://raw.githubusercontent.com/zer0Kerbal/NearFutureRovers/master/img/HERO-09.png" alt="Near Future Rovers" width="100%" height="100%">
+
+[top](#table-of-contents)
+
+### Hero 10
+
+<img src="https://raw.githubusercontent.com/zer0Kerbal/NearFutureRovers/master/img/HERO-10.png" alt="Near Future Rovers" width="100%" height="100%">
+
 [top](#table-of-contents)
 
 THIS FILE: CC BY-ND 4.0 by [zer0Kerbal](https://github.com/zer0Kerbal)
