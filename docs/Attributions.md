@@ -28,7 +28,7 @@ THIS FILE: CC BY-ND 4.0 by zer0Kerbal -->
 ### Credits
 
 <ul>
-  <li><a href="https://forum.kerbalspaceprogram.com/index.php?/profile/151168-*/"><img alt="MichaelV2.0" src="https://kerbal-forum-uploads.s3.us-west-2.amazonaws.com/monthly_03_2016/Version_2.0_Industries_logo1.png.4f8225e93939c5ce626cab7677ff6620.thumb.png.1af2f879ea81683c1b1db3725b6e9e2c.png" width="50px" height="50px" > MichaelV2.0</a> for inspiring <a href="https://forum.kerbalspaceprogram.com/index.php?/topic/207911-*/" alt="Near Future Rovers (NFR)"> Near Future Rovers (NFR)</a> addon!</li>
+  <li><a href="https://forum.kerbalspaceprogram.com/index.php?/profile/151168-*/"><img alt="MichaelV2.0" src="https://kerbal-forum-uploads.s3.us-west-2.amazonaws.com/monthly_03_2016/Version_2.0_Industries_logo1.png.4f8225e93939c5ce626cab7677ff6620.thumb.png.1af2f879ea81683c1b1db3725b6e9e2c.png" width="50px" height="50px" > MichaelV2.0</a> for creating <a href="https://forum.kerbalspaceprogram.com/index.php?/topic/207911-*/" alt="Near Future Rovers (NFR)"> Near Future Rovers (NFR)</a> addon!</li>
   <li><i>Thank you to everyone who gave feedback! It's very important for me and highly appreciated.</i></li>
 </ul>
 
