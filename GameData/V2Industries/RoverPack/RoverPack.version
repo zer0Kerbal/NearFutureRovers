@@ -1,12 +1,12 @@
 {
-	"NAME"		     : "RoverPack (V2IR)",
-	"URL"			 : "https://raw.githubusercontent.com/zer0Kerbal/RoverPack/master/RoverPack.version",
-	"DOWNLOAD"	     : "https://github.com/zer0Kerbal/RoverPack/releases/latest",
-	"CHANGE_LOG_URL" : "https://raw.githubusercontent.com/zer0Kerbal/RoverPack/master/changelog.md",
+	"NAME"		     : "Near Future Rovers (NFR)",
+	"URL"			 : "https://raw.githubusercontent.com/zer0Kerbal/NearFutureRovers/master/NearFutureRovers.version",
+	"DOWNLOAD"	     : "https://github.com/zer0Kerbal/NearFutureRovers/releases/latest",
+	"CHANGE_LOG_URL" : "https://raw.githubusercontent.com/zer0Kerbal/NearFutureRovers/master/changelog.md",
 	"GITHUB" :
 	{
 		"USERNAME"	        : "zer0Kerbal",
-		"REPOSITORY"		: "RoverPack",
+		"REPOSITORY"		: "NearFutureRovers",
 		"ALLOW_PRE_RELEASE" : false
 	},
 	"VERSION" :
@@ -30,7 +30,7 @@
 	},
 	"INSTALL_LOC" :
 	{
-		"NAME" :	  "RoverPack",
-		"DIRECTORY" : "V2Industries/RoverPack"
+		"NAME" :	  "NearFutureRovers",
+		"DIRECTORY" : "V2Industries/NearFutureRovers"
 	}
 }
