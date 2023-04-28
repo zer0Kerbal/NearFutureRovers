@@ -2,7 +2,7 @@
 # Jekyll configuration
 name: Near Future Rovers (NFR)
 logo: /img/HeroLogo_1920x1920.jpg
-description: An Addon for <a href="https://www.kerbalspaceprogram.com" style="color: #8ebf42" target="_blank">Kerbal Space Program</a>.
+description: An Addon for <a href="https://www.kerbalspaceprogram.com" style="color: #8EBF42" target="_blank">Kerbal Space Program</a>.
 theme: jekyll-theme-architect
 markdown: kramdown
 highlighter: rouge
