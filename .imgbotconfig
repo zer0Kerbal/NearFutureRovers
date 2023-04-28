@@ -1,7 +1,7 @@
 {
     "schedule": "weekly",
     "ignoredFiles": [
-        "GameData/V2Industries/RoverPack*",
+        "GameData/V2Industries/NearFutureRovers*",
         "source/*",
         "**/@thumbs/**",
         "**/Agencies/**",

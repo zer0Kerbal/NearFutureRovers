@@ -1,14 +1,14 @@
 # Changelog  
-
-| modName    | Rover Pack (V2IR)                                                 |
+  
+| modName    | Near Future Rovers (NFR)                                          |
 | ---------- | ----------------------------------------------------------------- |
-| license    | CC-BY-ND-4.0                                                      |
+| license    | CC-BY-NC-ND-4.0+ARR                                               |
 | author     | MichaelV2.0 and zer0Kerbal                                        |
 | forum      | (https://forum.kerbalspaceprogram.com/index.php?/topic/207911-*/) |
-| github     | (https://github.com/zer0Kerbal/zer0Kerbal/RoverPack)              |
-| curseforge | (https://www.curseforge.com/kerbal/ksp-mods/RoverPack)            |
+| github     | (https://github.com/zer0Kerbal/zer0Kerbal/NearFutureRovers)       |
+| curseforge | (https://www.curseforge.com/kerbal/ksp-mods/NearFutureRovers)     |
 | spacedock  | (https://spacedock.info/mod/590)                                  |
-| ckan       | RoverPack                                                         |
+| ckan       | NearFutureRovers                                                  |
 
 ## Version 2.0.99.0-adoption `<EDITION>`
 
