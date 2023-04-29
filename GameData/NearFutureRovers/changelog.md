@@ -10,7 +10,7 @@
 | spacedock  | (https://spacedock.info/mod/590)                                  |
 | ckan       | NearFutureRovers                                                  |
 
-## Version 2.0.99.0-adoption - `<Thank you MichealV2.0>` edition
+## Version 2.0.99.0-adoption - `<Thank you MichaelV2.0>` edition
 
 * Released
   * 26 Apr 2023
@@ -31,7 +31,6 @@
 * Add modcons to parts such as a fuel cell to the HoneyBadger command pod
 * Localization
   * English
-
 
 ### Changes 2.0.99.0
 
@@ -117,7 +116,7 @@
 ### Status 2.0.99.0
 
 * Issues
-  * closes #9 - Near Future Rovers 2.0.99.0-adoption `<Thank you MichealV2.0>`
+  * closes #9 - Near Future Rovers 2.0.99.0-adoption `<Thank you MichaelV2.0>`
   * closes #10 - 2.0.99.0 Verify Legal Mumbo Jumbo
   * closes #11 - 2.0.99.0 Update Documentation
   * closes #12 - 2.0.99.0 Create Social Media
