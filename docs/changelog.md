@@ -22,37 +22,118 @@ CC BY-ND 4.0 by zer0Kerbal
 | spacedock  | (https://spacedock.info/mod/590)                                  |
 | ckan       | NearFutureRovers                                                  |
 
-## Version 2.0.99.0-adoption `<EDITION>`
+## Version 2.0.99.0-adoption - `<Thank you MichealV2.0>` edition
 
 * Released
-  * 01 May 2022
-  * Kerbal Space Program 1.12.3
+  * 26 Apr 2023
+  * for Kerbal Space Program 1.12.5
+  * by [zer0Kerbal](https://github.com/zer0Kerbal)
 
-## Adoption
+## Adoption by [zer0Kerbal](https://github.com/zer0Kerbal)
 
-## Graphics
+### Change Summary 2.0.99.0
 
 * Update
-  * .mbm --> .png (from 97.7mb to 1.43mb)
+* Lint
+* and so much more
+* DRAG_CUBES
+* Cargo/Inventory
+* Modernize
+* Convert all textures to dds
+* Add modcons to parts such as a fuel cell to the HoneyBadger command pod
+* Localization
+  * English
 
-## License
 
-* Updated to CC BY-ND 4.0
+### Changes 2.0.99.0
 
-### Localization
+### docs/
 
-* updates #13 - Localization - Master
-* closes #14 - American English <us-en.cfg>
-* closes #30 - Part Localization
+* Add
+  * [`_config.yml`]
+  * [Attribution.md] v1.0.7.1
+  * [ManualInstallation.md] v1.1.8.0
+  * [404.md] v1.0.3.2
+  * [LegalMumboJumbo.md] v1.0.5.1
+  * [Localizations.md] v1.1.7.0
+  * [Marketing.md] v1.0.1.0
+  * [Notices.md] v1.0.1.0
+  * [PartsCatalog.md] v1.1.4.1
+  * [Why.md] v1.1.0.0
 
-### Status
+### Add localized tags to parts
+
+* Add
+  * [NearFutureRovers.cfg] v1.0.0.0
+    * adds localized tags to parts
+
+### Localization 2.0.99.0
+
+* Create
+  * Localization/
+    * <en-us.cfg>
+    * [readme.md] v2.1.2.0
+    * [quickstart.md] v1.0.1.1
+  * closes #14 - English <us-en.cfg>
+  * closes #30 - Part Localization
+  * updates #13 - Localization - Master
+
+### Part Asset Updates
+
+* create Assets/ folder
+* convert
+  * from mesh to MODEL {}
+  * from .mbm/.tga/.png to .dds
+* rename
+  * models to unique names
+  * textures to unique names
+  * remove space and underscores
+* update
+  * model pointers (.png et al to .dds)
+  * model texture pointers to new names
+* relocate
+  * assets to Assets/
+  * part.cfg to Parts/
+* eliminate
+  * duplicate textures
+  * duplicate models
+* rename parts to standardized names (e.g. nrf-)
+* Add
+  * <ghostParts.cfg> v2.0.0.0
+  * in order to prevent name changes from breaking compatibility
+
+### Compatibility 2.0.99.0
+
+* Add
+  * <B9FuelSwitch.cfg> v1.0.0.0
+    * disabled by default (no texture switching yet)
+
+### Documentation
+
+* Create
+  * GitHub Pages
+  * docs/
+    * [`_config.yml`]
+    * [Attribution.md] v1.0.7.1
+    * [ManualInstallation.md] v1.1.8.0
+    * [404.md] v1.0.3.2
+    * [LegalMumboJumbo.md] v1.0.5.1
+    * [Localizations.md] v1.1.7.0
+    * [Marketing.md] v1.0.1.0
+    * [Notices.md] v1.0.1.0
+    * [PartsCatalog.md] v1.1.4.1
+    * [Why.md] v1.1.0.0
+  * HeroLogo.png
+  * copy/convert to HeroLogo.jpg
+
+### Status 2.0.99.0
 
 * Issues
-  * closes #8 - [ImgBot] Optimize images - contributed by imgbot[bot]
-  * closes #9 - Rover Pack 2.0.99.0-adoption <NAME>
+  * closes #9 - Near Future Rovers 2.0.99.0-adoption `<Thank you MichealV2.0>`
   * closes #10 - 2.0.99.0 Verify Legal Mumbo Jumbo
   * closes #11 - 2.0.99.0 Update Documentation
   * closes #12 - 2.0.99.0 Create Social Media
+  * closes #8 - [ImgBot] Optimize images - contributed by imgbot[bot]
 
 ---
 
