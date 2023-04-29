@@ -32,7 +32,6 @@
 * Localization
   * English
 
-
 ### Changes 2.0.99.0
 
 ### docs/
