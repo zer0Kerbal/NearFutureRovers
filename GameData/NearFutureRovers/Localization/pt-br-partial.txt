@@ -83,6 +83,16 @@ Localization
 		#NFR-puma-side-ore-desc = Carrying resources was a focus point in the development of the Puma rover, so the side storage was developed. Warranty void if used to carry any ground related contents.
 
 		#NFR-puma-tank-titl = R32M Puma Tank
-		#NFR-puma-tank-desc = After most of the fuel tanks were converted into the hab boxes, some of them were cut in half and converted back to fuel tanks. The KSC praised the admin staff for their use of bureaucratic Inefficiency and exorbitant allocation of work hours.
+		#NFR-puma-tank-desc = After most of the fuel tanks were converted into the hab boxes, some of them were cut in half and converted back to fuel tanks. The KSC praised the admin staff for their use of bureaucratic inefficiency and exorbitant allocation of work hours.
+
+	// FuelSwitch
+		#NFR-FS-info = \n<color=orange>Fuel Switch. </color>
+		#NFR-next = Next fuel
+		#NFR-prev = Previous fuel
+		#NFR-stat = Current fuel
+
+	// B9partswitch
+		#NFR-B9-info = \n<color=orange>B9 Fuel Switch. </color>
+		#NFR-B9-desc = Fuel Type
 	}
 }
