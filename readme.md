@@ -54,9 +54,6 @@ adopted with *express* permission and brought to you by *KerbSimpleCo*
 > * Compatibility patches
 > * Contracts for these glorious parts
 > * Sample Crafts
-
-> * Converting from FireSpitter to Stock and/or KSPWheel  
-
 > * Logo(s) for [Near Future Rovers (NFR)][NFR]
 > * Variant Textures and model updates (add/improve lights, iva, hatches and so forth)
 > * Additional flags, marketing images and videos such as hero shots, animated gifs, short highlights
@@ -74,7 +71,7 @@ Most recent releases only available via CurseForge/OverWolf Website/App
 
 ### Dependencies
 
-* [Kerbal Space Program][KSP:url] [![Kerbal Space Program][SHD:ksp]][KSP:url]
+* [Kerbal Space Program][KSP:url] [![Kerbal Space Program][KSP:shd]][KSP:url]
 
 ### Recommends
 
@@ -89,7 +86,7 @@ Most recent releases only available via CurseForge/OverWolf Website/App
 * [SimpleLogistics! (SLOG)][SLOG]
 * [SimpleNotes! (NOTE)][NOTES]
 
-* [Firespitter][fscore] or [Firespitter Core][fscore] (for fully functioning wheels. may invoke bouts of dizziness.)
+* [Firespitter][fscore] or [Firespitter Core][fscore] (for fuel and texture switching wheels. may invoke bouts of dizziness.)
 
 ### Supports
 
