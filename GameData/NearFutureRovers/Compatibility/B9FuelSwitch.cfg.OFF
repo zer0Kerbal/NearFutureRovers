@@ -1,0 +1,77 @@
+// B9FuelSwitch.cfg - v1.0.0.0
+// Near Future Rovers (NFR)
+// created: 26 Apr 2023
+// updated: 
+
+// this file: CC BY-ND 4.0 by [zer0Kerbal](www.github.com/zer0Kerbal)
+
+@PART[nfr-*]:HAS[#fuelVolume[*]]:NEEDS[B9PartSwitch,NearFutureRovers,!InterstellarFuelSwitch]:FOR[NearFutureRovers]
+{
+	tmp01 = #NFR-B9-info
+	@description = #$description$ $tmp01$
+	!tmp01 = DELETE
+
+	!RESOURCE[LiquidFuel] {}
+	!RESOURCE[Oxidizer]{}
+	MODULE
+	{
+		name = ModuleB9PartSwitch
+		moduleID = NFR-FuelSwitch
+		baseVolume = #$../fuelVolume$
+		switcherDescription = #NFR-B9-desc // Fuel Type
+		switchInFlight = False
+		affectFARVoxels = false
+		affectDragCubes = false
+		SUBTYPE
+		{
+			name = #autoLOC_8012033 // LF+Ox
+			title = #autoLOC_8012033 // LF+Ox
+			tankType = LFO
+			percentFilled = 100
+			defaultSubtypePriority = 10
+		}
+		SUBTYPE
+		{
+			name = #autoLOC_6002095 // LF
+			title = #autoLOC_500999 // Liquid Fuel
+			tankType = LiquidFuel
+			percentFilled = 100
+			defaultSubtypePriority = 20
+		}
+		SUBTYPE
+		{
+			name = #autoLOC_6002098 // MP
+			title = #autoLOC_501002 // Monopropellant
+			tankType = MonoPropellant
+			percentFilled = 100
+			defaultSubtypePriority = 30
+		}
+		SUBTYPE
+		{
+			name =  #LOC_B9PartSwitch_tank_type_ec // Battery
+			title =  #LOC_B9PartSwitch_tank_type_ec // Battery
+			tankType = Battery
+			percentFilled = 100
+			defaultSubtypePriority = 40
+		}
+		SUBTYPE:NEEDS[SimpleConstruction]
+		{
+			name = Combo
+			title = #SCON-combo-title // Ore/Metal/RP
+			tankType = SCCombo
+			defaultSubtypePriority = 50
+		}
+	}
+}
+
+// #autoLOC_501003 = Xenon Gas
+// #autoLOC_501004 = Electric Charge
+// #autoLOC_501005 = Intake Air
+// #autoLOC_501006 = EVA Propellant
+// #autoLOC_501007 = Ore
+
+// #autoLOC_6002099 = Xe
+// #autoLOC_6002100 = EC
+// #autoLOC_6002101 = Air
+// #autoLOC_6002102 = EP
+// #autoLOC_6002103 = Ore

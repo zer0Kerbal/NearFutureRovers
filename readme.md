@@ -54,14 +54,13 @@ adopted with *express* permission and brought to you by *KerbSimpleCo*
 > * Compatibility patches
 > * Contracts for these glorious parts
 > * Sample Crafts
-
-> * Converting from FireSpitter to Stock and/or KSPWheel  
-
 > * Logo(s) for [Near Future Rovers (NFR)][NFR]
 > * Variant Textures and model updates (add/improve lights, iva, hatches and so forth)
 > * Additional flags, marketing images and videos such as hero shots, animated gifs, short highlights
 > * Translations: See the [README in the Localization folder][lreadme] for instructions for adding or improving translations. There is also the [quickstart guide][qstart]. [GitHub][GitHub:url] push is the best way to contribute. *Additions and corrections welcome!*
 > * Have a request? Glad to have them, kindly submit through [GitHub][issue].
+
+### Localization
 
 >* ![English][EN] English
 >* ***your translation here***
@@ -74,7 +73,7 @@ Most recent releases only available via CurseForge/OverWolf Website/App
 
 ### Dependencies
 
-* [Kerbal Space Program][KSP:url] [![Kerbal Space Program][SHD:ksp]][KSP:url]
+* [Kerbal Space Program][KSP:url] [![Kerbal Space Program][KSP:shd]][KSP:url]
 
 ### Recommends
 
@@ -89,7 +88,7 @@ Most recent releases only available via CurseForge/OverWolf Website/App
 * [SimpleLogistics! (SLOG)][SLOG]
 * [SimpleNotes! (NOTE)][NOTES]
 
-* [Firespitter][fscore] or [Firespitter Core][fscore] (for fully functioning wheels. may invoke bouts of dizziness.)
+* [Firespitter][fscore] or [Firespitter Core][fscore] (for fuel and texture switching wheels. may invoke bouts of dizziness.)
 
 ### Supports
 
@@ -118,7 +117,7 @@ parts, agency, flags, config
 
 #### Current (1) - [`zer0Kerbal`][zer0Kerbal]
 
-> Forum: [Thread][MOD:forum] - Source: [GitHub][GITHUB:url]  
+> Forum: [Thread][forum] - Source: [GitHub][GITHUB:url]  
 > License: [![License][LIC:shd]][LIC:url] ![License][LIC:log]
 
 #### Original (0) - Author: [`MichaelV2.0`][auth-link]
