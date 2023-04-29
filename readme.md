@@ -60,6 +60,8 @@ adopted with *express* permission and brought to you by *KerbSimpleCo*
 > * Translations: See the [README in the Localization folder][lreadme] for instructions for adding or improving translations. There is also the [quickstart guide][qstart]. [GitHub][GitHub:url] push is the best way to contribute. *Additions and corrections welcome!*
 > * Have a request? Glad to have them, kindly submit through [GitHub][issue].
 
+### Localization
+
 >* ![English][EN] English
 >* ***your translation here***
 
