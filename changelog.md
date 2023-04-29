@@ -10,31 +10,98 @@
 | spacedock  | (https://spacedock.info/mod/590)                                  |
 | ckan       | NearFutureRovers                                                  |
 
-## Version 2.0.99.0-adoption `<EDITION>`
+## Version 2.0.99.0-adoption - `<Thank you MichealV2.0>` edition
 
 * Released
-  * 01 May 2022
-  * Kerbal Space Program 1.12.3
+  * 26 Apr 2023
+  * for Kerbal Space Program 1.12.5
+  * by [zer0Kerbal](https://github.com/zer0Kerbal)
 
-## Adoption
+## Adoption by [zer0Kerbal](https://github.com/zer0Kerbal)
 
-## Graphics
+### Summary 2.0.99.0
+
+* Adoption by zer0Kerbal
+* Localization
+  * English
+  * Dutch thank you to @renejant (*bedankt!*)
+* Convert all textures to dds
+
+### Parts 2.0.99.0
 
 * Update
-  * .mbm --> .png (from 97.7mb to 1.43mb)
+* Lint
+* and so much more
+* DRAG_CUBES
+* Cargo/Inventory
+* Modernize
 
-## License
+### docs/
 
-* Updated to CC BY-ND 4.0
+* Add
+  * [`_config.yml`]
+  * [Attribution.md] v1.0.7.1
+  * [ManualInstallation.md] v1.1.8.0
+  * [404.md] v1.0.3.2
+  * [LegalMumboJumbo.md] v1.0.5.1
+  * [Localizations.md] v1.1.7.0
+  * [Marketing.md] v1.0.1.0
+  * [Notices.md] v1.0.1.0
+  * [PartsCatalog.md] v1.1.4.1
+  * [Why.md] v1.1.0.0
 
-### Localization
+### Add localized tags to parts
 
-* updates #13 - Localization - Master
-* closes #14 - American English <us-en.cfg>
-* closes #30 - Part Localization
+* Add
+  * [NearFutureRovers.cfg] v1.0.0.0
+    * adds localized tags to parts
 
-### Status
+### Localization 2.0.99.0
 
+* Create
+  * Localization/
+    * <en-us.cfg>
+    * [readme.md] v2.1.2.0
+    * [quickstart.md] v1.0.1.1
+
+### Asset Updates
+
+* create Assets/ folder
+* convert from mesh to MODEL
+* rename
+  * models to unique names
+  * textures to unique names
+* update
+  * model pointers (.png et al to .dds)
+  * model texture pointers to new names
+* relocate assets to Assets/
+* eliminate
+  * duplicate textures
+  * duplicate models
+* relocate part.cfg to Parts/
+* rename parts to standardized names (e.g. drop-)
+  * <WrapperTankLong> --> <drop-tank-sleeve> v2.0.0.0
+  * <WrapperTankBracelet> --> <drop-tank-bracelet> v2.0.0.0
+  * <WrapperTank> --> <drop-tank-wrapper> v2.0.0.0
+  * <WrapperCap> --> <drop-tank-cap> v2.0.0.0
+  * <WrapperTankWristband> --> <drop-tank-wristband> v2.0.0.0
+  * Add
+    * <ghostParts.cfg> v1.3.0.1
+    * in order to prevent name changes from breaking compatibility
+* closes #35 - Asset Updates
+
+### Compatibility 2.0.99.0
+
+* Add
+  * <B9FuelSwitch.cfg> v1.0.0.0
+    * disabled by default (no texture switching yet)
+
+### Documentation
+
+
+### Status 2.0.99.0
+
+* Issues
 * Issues
   * closes #8 - [ImgBot] Optimize images - contributed by imgbot[bot]
   * closes #9 - Rover Pack 2.0.99.0-adoption <NAME>
