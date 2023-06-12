@@ -1,19 +1,18 @@
-<!-- readme.md v1.0.0.0
+<!-- readme.md v1.0.1.0
 Near Future Rovers (NFR)
 created: 26 Apr 2023
-updated: 
+updated: 12 Jun 2023
 
 TEMPLATE: readme.md v1.7.2.1
 created: 17 Jul 2017
 updated: 15 Apr 2023
 
 THIS FILE: CC BY-ND 4.0 by zer0Kerbal -->
+# [Near Future Rovers (NFR)][CURSFG:url] by Version 2.0 Industries
 
 [![Near Future Rovers (NFR)][SHD:mod]][CURSFG:url]  
 [![KSP version][KSP:shd]][KSP:url] [![License][LIC:shd]][LIC:url]  
 [![Curseforge][CURSFG:shd]][CURSFG:url] [![GitHub][GITHUB:shd]][GITHUB:url] [![GitHub Pages][SHD:pgs]][pages]
-
-# [Near Future Rovers (NFR)][CURSFG:url] by Version 2.0 Industries
 
 V2 Industries presents a parts pack consists of a variety of rover parts that seeks to fill a kerbal's need for thrill and adventure in the way of exploration with little to no safety guidelines. Included are both the HoneyBadger and Puma platforms.
 
@@ -31,7 +30,7 @@ adopted with *express* permission and brought to you by *KerbSimpleCo*
 >
 > Accompanying the `Puma` is it's big brother the `R32L Honey Badger` parts which work fluently with the `Puma` parts to help with heavier cargo transportation, mining and planetary exploration. for Kerbal Space Program.
 >
-> V2 Industries (V2I) presents [Near Future Rovers (NFR)][NFR], which seeks to fill the kerbal's need for thrill and adventure in the way of exploration with little to no safety guidelines. The pack consists of a variety of rover parts to tackle the gap in planetary scientific exploration as well as cargo and passenger transportation for Kerbal Space Program.
+> V2 Industries (V2I) presents [Near Future Rovers (NFR)][CURSFG:url], which seeks to fill the kerbal's need for thrill and adventure in the way of exploration with little to no safety guidelines. The pack consists of a variety of rover parts to tackle the gap in planetary scientific exploration as well as cargo and passenger transportation for Kerbal Space Program.
 
 ### See more
 
@@ -42,28 +41,30 @@ adopted with *express* permission and brought to you by *KerbSimpleCo*
 >* [ChangeLog][chlog] for more details of changes
 >* [Known Issues][issue] for more details of feature requests and known issues
 
-### <img src="https://cdn.pixabay.com/photo/2014/05/14/14/17/youtube-344106_960_720.png" alt="Youtube logo" height="33px" width="66px">
+<details>
+  <summary><img src="https://cdn.pixabay.com/photo/2014/05/14/14/17/youtube-344106_960_720.png" alt="Youtube logo" height="33px" width="66px"></summary>
 
-* Review
-  * by [`Kottabos Gaming`](https://forum.kerbalspaceprogram.com/index.php?/profile/36583-*/)
+> Review by [`Kottabos Gaming`](https://forum.kerbalspaceprogram.com/index.php?/profile/36583-*/)
+>
+> [![Kottabos reviews the Version_2.0 Industries Rover Pack](https://img.youtube.com/vi/z0wh8KEaFT8/0.jpg)](https://www.youtube.com/watch?v=z0wh8KEaFT8)
+</details>
 
-[![Kottabos reviews the Version_2.0 Industries Rover Pack](https://img.youtube.com/vi/z0wh8KEaFT8/0.jpg)](https://www.youtube.com/watch?v=z0wh8KEaFT8)
+### Localization
+
+>* ![English][EN] English
+>* ![Russian (Русский)][RU] Russian (Русский) - Спасибо [evanisrael](https://github.com/evanisrael)
+>* ***your translation here***
 
 ### Help Wanted
 
 > * Compatibility patches
 > * Contracts for these glorious parts
 > * Sample Crafts
-> * Logo(s) for [Near Future Rovers (NFR)][NFR]
+> * Logo(s) for [Near Future Rovers (NFR)][CURSFG:url]
 > * Variant Textures and model updates (add/improve lights, iva, hatches and so forth)
 > * Additional flags, marketing images and videos such as hero shots, animated gifs, short highlights
 > * Translations: See the [README in the Localization folder][lreadme] for instructions for adding or improving translations. There is also the [quickstart guide][qstart]. [GitHub][GitHub:url] push is the best way to contribute. *Additions and corrections welcome!*
 > * Have a request? Glad to have them, kindly submit through [GitHub][issue].
-
-### Localization
-
->* ![English][EN] English
->* ***your translation here***
 
 ### Installation Directions
 
@@ -77,25 +78,30 @@ Most recent releases only available via CurseForge/OverWolf Website/App
 
 ### Recommends
 
-* [Rover Anti Gravity System (RAGS)][RAGS]
+* [Rover Anti Gravity System (RAGS)](https://www.curseforge.com/kerbal/ksp-mods/roverantigravitysystem )
 
 ### Suggests
 
-* [Biomatic (BIO)][BIO]
-* [GPO (Goo Pumps & Oils') Speed Pump (GPO)][GPO]
-* [Kaboom! (BOOM)][BOOM]
-* [On Demand Fuel Cells (ODFC)][ODFC]
-* [SimpleLogistics! (SLOG)][SLOG]
-* [SimpleNotes! (NOTE)][NOTES]
+* [Adjustable Mod Panel (KAMP)](https://www.curseforge.com/kerbal/ksp-mods/AdjustableModPanel)
+* [Biomatic (BIO)](https://www.curseforge.com/kerbal/ksp-mods/Biomatic)
+* [GPO (Goo Pumps & Oils') Speed Pump (GPO)](https://www.curseforge.com/kerbal/ksp-mods/GPOSpeedPump)
+* [Kaboom! (BOOM)](https://www.curseforge.com/kerbal/ksp-mods/Kaboom)
+* [On Demand Fuel Cells (ODFC)](https://www.curseforge.com/kerbal/ksp-mods/OnDemandFuelCells)
+* [Papa Kerballini's Pizza (PIZZA)](https://www.curseforge.com/kerbal/ksp-mods/Pizza)
+* [Precise Maneuver (PM)](https://www.curseforge.com/kerbal/ksp-mods/PreciseManeuver)
+* [SimpleConstruction! (SCON)](https://www.curseforge.com/kerbal/ksp-mods/SimpleConstruction)
+* [SimpleLife! (LIFE)](https://www.curseforge.com/kerbal/ksp-mods/SimpleLife)
+* [SimpleLogistics! (SLOG)](https://www.curseforge.com/kerbal/ksp-mods/SimpleLogistics)
+* [SimpleNotes! (NOTE)](https://www.curseforge.com/kerbal/ksp-mods/Notes)
 
-* [Firespitter][fscore] or [Firespitter Core][fscore] (for fuel and texture switching wheels. may invoke bouts of dizziness.)
+* [Firespitter](https://github.com/snjo/Firespitter) or [Firespitter Core](https://github.com/snjo/Firespitter) (for fuel and texture switching wheels. may invoke bouts of dizziness.)
 
 ### Supports
 
-* [Kerbal Attachment System (KAS)][kas]
-* [Kerbal Inventory System (KIS)][kis]
-* [ModularManagement (MM)][MM] or [Module Manager][m-m]
-* [TweakScale (TWK)][twk]
+* [Kerbal Attachment System (KAS)](https://www.curseforge.com/kerbal/ksp-mods/kerbal-attachment-system-kas)
+* [Kerbal Inventory System (KIS)](https://www.curseforge.com/kerbal/ksp-mods/kerbal-inventory-system-kis)
+* [ModularManagement (MM)][MM] or [Module Manager][omm]
+* [TweakScale (twk)](https://www.curseforge.com/kerbal/ksp-mods/TweakScale)
 
 ### Tags
 
@@ -115,15 +121,15 @@ parts, agency, flags, config
 
 ### Legal Mumbo Jumbo (License *provenance*)
 
-#### Current (1) - [`zer0Kerbal`][zer0Kerbal]
+#### Author (1) - [`zer0Kerbal`][zer0Kerbal]
 
 > Forum: [Thread][forum] - Source: [GitHub][GITHUB:url]  
 > License: [![License][LIC:shd]][LIC:url] ![License][LIC:log]
 
 #### Original (0) - Author: [`MichaelV2.0`][auth-link]
 
-> Forum: [Thread][MOD:0:thread] - Download: [SpaceDock][MOD:0:dnload] - Source: [SpaceDock][MOD:0:source]  
-> License: [![License][LIC:0:shd]][LIC:0:url] ![License][LIC:0:log]
+> Forum: [Thread][0:thr] - Download: [SpaceDock][0:dnl] - Source: [SpaceDock][0:src]  
+> License: [![License][0:shd]][0:url] ![License][0:log]
 >
 > I have granted [zer0Kerbal][zer0Kerbal] permission to adopt Version 2.0 Industries Rover Pack mod with the understanding that he will keep the `Version 2.0 Industries` brand,  and proper attribution to the original author (myself). Any Significant changes to models and codes, along with new parts, textures, models, and functions are permitted as per agreement and approval at such time as changes maybe needed.
 >
@@ -163,14 +169,13 @@ Comment, click, like, share, up-vote, subscribe
 [SHD:pgs]: https://img.shields.io/badge/GitHub-Pages-white?style=plastic&labelColor=9cf&logoColor=181717&logo=github "GitHub IO"
 
 <!--- mod provenance -->
-[MOD:0:dnload]: https://spacedock.info/mod/590 "SpaceDock"
-[MOD:0:source]: https://spacedock.info/mod/590 "SpaceDock"
-[MOD:0:thread]: https://forum.kerbalspaceprogram.com/index.php?/topic/164115-*/ "KSP Forum"  
+[0:dnl]: https://spacedock.info/mod/590 "SpaceDock"
+[0:src]: https://spacedock.info/mod/590 "SpaceDock"
+[0:thr]: https://forum.kerbalspaceprogram.com/index.php?/topic/164115-*/ "KSP Forum"  
 
-<!--- license provenance -->
-[LIC:0:log]: https://licensebuttons.net/i/l/by-nc-sa/transparent/33/66/99/76x22.png "CC BY-NC-SA 4.0"
-[LIC:0:shd]: https://img.shields.io/badge/License-CC%20BY--NC--SA%204.0-ef9421?labelColor=black&style=plastic&logoColor=ef9421&logo=creativecommons "CC BY-NC-SA 4.0"
-[LIC:0:url]: https://creativecommons.org/licenses/by-nc-sa/4.0/ "CC BY-NC-SA 4.0"
+[0:log]: https://licensebuttons.net/i/l/by-nc-sa/transparent/33/66/99/76x22.png "CC BY-NC-SA 4.0"
+[0:shd]: https://img.shields.io/badge/License-CC%20BY--NC--SA%204.0-ef9421?labelColor=black&style=plastic&logoColor=ef9421&logo=creativecommons "CC BY-NC-SA 4.0"
+[0:url]: https://creativecommons.org/licenses/by-nc-sa/4.0/ "CC BY-NC-SA 4.0"
 
 [LIC:log]: https://licensebuttons.net/i/l/by-nd/transparent/33/66/99/76x22.png "CC BY-ND 4.0+ARR"
 [LIC:shd]: https://img.shields.io/endpoint?url=https://raw.githubusercontent.com/zer0Kerbal/NearFutureRovers/master/json/license.json "CC BY-ND 4.0+ARR"
@@ -191,22 +196,8 @@ Comment, click, like, share, up-vote, subscribe
 [KSP:shd]: https://img.shields.io/endpoint?url=https://raw.githubusercontent.com/zer0Kerbal/NearFutureRovers/master/json/ksp.json "Kerbal Space Program"
 
 <!-- links to add-ons/mods -->
-[BIO]: https://www.curseforge.com/kerbal/ksp-mods/Biomatic "Biomatic (BIO)"
-[BOOM]: https://www.curseforge.com/kerbal/ksp-mods/Kaboom "Kaboom! (BOOM)"
-[GPO]: https://www.curseforge.com/kerbal/ksp-mods/GPOSpeedPump "GPO SpeedPump (GPO)"
-[NOTES]: https://www.curseforge.com/kerbal/ksp-mods/Notes "SimpleNotes! (NOTES)"
-[ODFC]: https://www.curseforge.com/kerbal/ksp-mods/OnDemandFuelCells "On Demand Fuel Cells (ODFC)"
-[RAGS]: https://www.curseforge.com/kerbal/ksp-mods/roverantigravityroom "Rover Anti Gravity System"
-[SLOG]: https://www.curseforge.com/kerbal/ksp-mods/SimpleLogistics "SimpleLogistics! (SLOG)"
-
-[NFR]: https://www.curseforge.com/kerbal/ksp-mods/NearFutureRovers "Near Future Rovers (NFR)"
-
-[fscore]: https://github.com/snjo/Firespitter "Firespitter"
-[kas]: https://legacy.curseforge.com/kerbal/ksp-mods/kerbal-attachment-system-kas "Kerbal Attachment System"
-[kis]: https://www.curseforge.com/kerbal/ksp-mods/kerbal-inventory-system-kis "Kerbal Inventory System"
 [MM]: https://www.curseforge.com/kerbal/ksp-mods/ModularManagement "ModularManagement (MM)"
-[m-m]: https://forum.kerbalspaceprogram.com/index.php?/topic/50533-*/ "Module Manager"
-[twk]: https://www.curseforge.com/kerbal/ksp-mods/TweakScale "TweakScale"
+[omm]: https://forum.kerbalspaceprogram.com/index.php?/topic/50533-*/ "Module Manager"
 
 <!-- financial support -->
 [PAYPAL:img]: https://img.shields.io/badge/Buy%20me%20some%20-LFO-BADA55?style=for-the-badge&logo=paypal&labelColor=FFDD00/ "PayPal"
@@ -218,7 +209,7 @@ Comment, click, like, share, up-vote, subscribe
 [lreadme]: https://github.com/zer0Kerbal/zer0Kerbal/blob/master/Localization/readme.md "Localization Readme"
 [qstart]: https://github.com/zer0Kerbal/zer0Kerbal/blob/master/Localization/quickstart.md "Quickstart"
 [EN]: https://raw.githubusercontent.com/zer0Kerbal/zer0Kerbal/master/img/EN.png "English"
-[BR]: https://raw.githubusercontent.com/zer0Kerbal/zer0Kerbal/master/img/BR.png "Português Brasil"
+[RU]: https://raw.githubusercontent.com/zer0Kerbal/zer0Kerbal/master/img/RU.png "Русский"
 
 [curseforge]: https://www.curseforge.com/members/zer0kerbal/projects
 [reddit]: https://www.reddit.com/user/zer0Kerbal
