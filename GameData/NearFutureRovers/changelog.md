@@ -1,6 +1,6 @@
 # Changelog  
   
-| modName    | Near Future Rovers (NFR)                                          |
+| modName    | Near Future Rovers (NFR) by MichaelV2.0                           |
 | ---------- | ----------------------------------------------------------------- |
 | license    | CC-BY-NC-ND-4.0+ARR                                               |
 | author     | MichaelV2.0 and zer0Kerbal                                        |
@@ -9,6 +9,50 @@
 | curseforge | (https://www.curseforge.com/kerbal/ksp-mods/NearFutureRovers)     |
 | spacedock  | (https://spacedock.info/mod/590)                                  |
 | ckan       | NearFutureRovers                                                  |
+
+## Version 2.0.99.1-prerelease - `<Спасибо evanisrael>` edition
+
+* Released
+  * 12 Jun 2023
+  * for Kerbal Space Program 1.12.5
+  * by [zer0Kerbal](https://github.com/zer0Kerbal)
+
+### Change Summary 2.0.99.1
+
+* Add localization: Russian (Русский) -  Спасибо [evanisrael](https://github/evanisrael)
+
+### Changes 2.0.99.1
+
+#### Localization 2.0.99.1
+
+* Add
+  * Russian (Русский)
+    * [ru.cfg] v1.0.0.0
+    * Спасибо [evanisrael](https://github/evanisrael)
+  Translation guides
+    * [readme-ru.md] v1.0.1.0
+    * [quickstart-ru.md] v1.0.0.0
+    * Спасибо [evanisrael](https://github/evanisrael)
+* Update
+  * [ru.cfg] v1.0.1.0
+  * add header, give credit
+* closes #21 - Russian <ru.cfg>
+* updates #13 - Localization - Master
+
+#### Documentation 2.0.99.1
+
+* Update
+  * [readme.md] v1.0.1.0
+  * [Attributions.md] v1.0.1.0
+  * [Localizations.md] v1.0.1.0
+
+### Status 2.0.99.1
+
+* Issues
+  * closes #38 - Near Future Rovers (NFR) 2.0.99.1-prerelease `<Спасибо evanisrael>` edition
+  * closes #39 - 2.0.99.1 Additional Tasks
+
+---
 
 ## Version 2.0.99.0-adoption - `<Thank you MichaelV2.0>` edition
 
