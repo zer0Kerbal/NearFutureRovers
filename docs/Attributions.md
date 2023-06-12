@@ -5,10 +5,10 @@ description: The Opening Credits, and the closing credits, plus the first of two
 tags: attributions,thank-you,directions,page,kerbal,ksp,zer0Kerbal,zedK
 ---
 <!--
-Attributions.md v1.0.0.0
+Attributions.md v1.0.1.0
 Near Future Rovers (NFR)
 created: 26 Apr 2023
-updated: 
+updated: 10 Jun 2023
 
 TEMPLATE: Attributions.md v1.0.9.0
 created: 01 Feb 2022
@@ -56,6 +56,7 @@ THIS FILE: CC BY-ND 4.0 by zer0Kerbal -->
 
 <ul>
   <li><img src="https://raw.githubusercontent.com/zer0Kerbal/zer0Kerbal/master/img/EN.png " alt="English" style="zoom:100%;" /> English</li>
+  <li><img src="https://raw.githubusercontent.com/zer0Kerbal/zer0Kerbal/zed'K/img/RU.png" alt="Russian (Русский)" style="zoom:100%;" /> Russian (Русский) - Спасибо <a href="https://github.com/evanisrael" alt="evanisrael">evanisrael</a></li>
   <li><small>Additions and corrections welcome!</small></li>
 </ul>
 
@@ -70,6 +71,7 @@ THIS FILE: CC BY-ND 4.0 by zer0Kerbal -->
 ### Art Asset(s)
 
 * Flags
+* Hero Logo/Cover - All Rights Reserved
 
 ### Testing and Support
 
@@ -79,5 +81,6 @@ THIS FILE: CC BY-ND 4.0 by zer0Kerbal -->
 </ul>
 
 THIS FILE: CC BY-ND 4.0 by zer0Kerbal
+  used with express permission from zer0Kerbal
 
 [mod]: https://www.curseforge.com/kerbal/ksp-mods/NearFutureRovers "Near Future Rovers (NFR)"
