@@ -29,6 +29,10 @@
   * Russian (Русский)
     * [ru.cfg] v1.0.0.0
     * Спасибо [evanisrael](https://github/evanisrael)
+  Translation guides
+    * [readme-ru.md] v1.0.1.0
+    * [quickstart-ru.md] v1.0.0.0
+    * Спасибо [evanisrael](https://github/evanisrael)
 * Update
   * [ru.cfg] v1.0.1.0
   * add header, give credit
