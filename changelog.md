@@ -52,6 +52,8 @@
   * closes #38 - Near Future Rovers (NFR) 2.0.99.1-prerelease `<Спасибо evanisrael>` edition
   * closes #39 - 2.0.99.1 Additional Tasks
 
+---
+
 ## Version 2.0.99.0-adoption - `<Thank you MichaelV2.0>` edition
 
 * Released
